@@ -14,6 +14,7 @@ function App() {
         <User/>
         {/* <UserAfter1sec/> */}
       </NoteState>
+      <p>Refresh to view changes</p>
     </div>
   );
 }
